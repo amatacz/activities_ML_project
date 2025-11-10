@@ -57,11 +57,10 @@ The final model, a **Hypertuned Random Forest Regressor**, achieved the followin
   * **RMSE:** 101.49 calories
 
 A **Feature Importance** analysis revealed that distance and burned_calories_per_minute were the most significant predictors of calorie expenditure.
-![feature importances bar chart](readme_artifacts/image-2.png)
+![feature importances bar chart](readme_artifacts/image-1.png)
 
 Predicted vs. Actual calories burned scatter plot.  
 ![results scatter plot](readme_artifacts/image.png)
-
 -----
 
 ## 🔩 Project Structure
