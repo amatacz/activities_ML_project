@@ -1,5 +1,5 @@
 *.csv
-old_csvs
+data_files
 __pycache__
 .env
 notes.txt
